@@ -1,4 +1,7 @@
-# Car-Sales-Analytics-Dashboard
+# :rocket: Car-Sales-Analytics-Dashboard
 This project features an end-to-end Car Sales Analytics Dashboard built using Power BI. It provides deep insights into sales trends, pricing behavior, dealership performance, and customer purchasing patterns. The dashboard is divided into two interactive sections: Overview and Details, allowing users to explore data at both high and granular level.
+
+
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Car%20Sales.xlsx)
 
 <img width="980" height="600" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Car%20Analysis.jpg" />

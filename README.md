@@ -74,6 +74,11 @@ To list all relevant transaction-level details such as car model, body style, co
 
 ---
 
+## 📊 Details Dashboard
+[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Car%20Sales%20Summary%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/details%20Dashboard.png)
+
+---
+
 ## 🛠️ Tools Used
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Car%20Sales.xlsx)

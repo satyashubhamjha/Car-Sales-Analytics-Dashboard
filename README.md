@@ -47,8 +47,8 @@ This project features an end-to-end Car Sales Analytics Dashboard built using Po
 
 ---
 
-## 📊 Summary Dashboard
-[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Car%20Sales%20Summary%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/your-username/your-repo-name/blob/main/assets/Car_Sales_Summary_Dashboard.png)
+## 📊 Overview Dashboard
+[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Car%20Sales%20Summary%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Overview%20Car%20Analysis.png)
 
 ---
 
@@ -76,20 +76,16 @@ To list all relevant transaction-level details such as car model, body style, co
 
 ## 🛠️ Tools Used
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/your-username/your-repo-name/blob/main/data/car_sales_data.xlsx)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Car%20Sales.xlsx)
 
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/your-username/your-repo-name/blob/main/Car_Sales_Dashboard.pbix)
-
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/your-username/your-repo-name/blob/main/sql/car_sales_queries.sql)
-
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/your-username/your-repo-name/blob/main/notebooks/Car_Sales_Analysis.ipynb)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/car%20sales%20analysis.pbix)
 
 ---
 
 ## 📊 Car Sales Domain Overall Analysis – Mind Map
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/Car_Sales_Overall_Mind_Map.png" width="650" />
+  <img src="https://github.com/satyashubhamjha/Car-Sales-Analytics-Dashboard/blob/main/Mind%20Map%20Car%20Analysis.png" width="650" />
 </p>
 
 > **Figure:** Mind map covering core components of the Car Sales domain – KPIs, body styles, colors, regions, and company-wise performance.

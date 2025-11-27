@@ -95,3 +95,12 @@ To list all relevant transaction-level details such as car model, body style, co
 
 > **Figure:** Mind map covering core components of the Car Sales domain – KPIs, body styles, colors, regions, and company-wise performance.
 
+---
+
+# 🙌 Author  
+**SHUBHAM KUMAR JHA**  
+📧 Email: shubhamjha14081@gmail.com 
+🔗 GitHub: https://github.com/satyashubhamjha 
+
+---
+
